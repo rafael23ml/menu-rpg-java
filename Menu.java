@@ -1,10 +1,4 @@
 
-package jposantos.a3;
-
-/**
- *
- * @author jposantos
- */
 
 import java.util.Scanner;
 
