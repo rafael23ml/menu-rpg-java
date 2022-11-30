@@ -1,13 +1,8 @@
 
-package jposantos.a3;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author jposantos
- */
 public class UsaPersonagem {
     /*Declarando dados da classe personagem*/
     Scanner sc = new Scanner(System.in);
