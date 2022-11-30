@@ -1,10 +1,4 @@
 
-package jposantos.a3;
-
-/*
-Classe principal
- */
-
 public class Personagens {
     
     private String nome;
